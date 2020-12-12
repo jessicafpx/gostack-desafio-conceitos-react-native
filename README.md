@@ -1,4 +1,4 @@
-# 🚀 GoStack Challenge: Node.js Concepts
+# 🚀 GoStack Challenge: React Native Concepts
 This is a challenge of Rocketseat's GoStack bootcamp. It is an application to store portfolio repositories, which allows the creation, listing, updating and removal of repositories, and also allows the repositories to receive "likes".
 
 ### ⚙️ Technologies
