@@ -1,4 +1,4 @@
-# 🚀 Desafio GoStack: Conceitos do Node.js
+# 🚀 Desafio GoStack: Conceitos React Native
 Este é um desafio do bootcamp GoStack, da Rocketseat. Trata-se de uma aplicação para armazenar repositórios de um portfólio, que  permite a criação, listagem, atualização e remoção de repositórios, e além disso permite que os repositórios possam receber "likes".
 
 ### ⚙️ Tecnologias
